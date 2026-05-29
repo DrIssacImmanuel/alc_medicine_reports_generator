@@ -57,4 +57,4 @@ Once processing is complete, open your destination folder. The application autom
 2. **Consolidated list of medicines ordered** for that day
 3. **Merged order list** including the patient's complete full details
 
-[Download the pdf file here](README.pdf)
+[Open the pdf file here](README.pdf)
